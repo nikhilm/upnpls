@@ -1,0 +1,9 @@
+Makefile
+items.o
+main.o
+moc_items.cpp
+moc_items.o
+moc_upnpls.cpp
+moc_upnpls.o
+upnpls
+upnpls.o
